@@ -15,17 +15,17 @@ function App(){
                     <div className="container">
                         <div className="row">
                             <div className="col">
-                                <nav className="navbar navbar-dark navbar-expand-md">
+                                <nav className="navbar navbar-dark navbar-expand-lg">
                                     <a href="">
                                         <h1><img data-aos="flip-left"
      data-aos-easing="ease-out-cubic"
-     data-aos-duration="2000" src={process.env.PUBLIC_URL + "/logo.png"} alt="My-Pic" width="80px" /></h1>
+     data-aos-duration="2000" src={process.env.PUBLIC_URL + "/logo.png"} alt="My-Pic" width="120px" /></h1>
                                     </a>
                                     <button class="navbar-toggler">
                                         <span class="navbar-toggler-icon" data-toggle="collapse" data-target="#mynavbar"></span>
                                     </button>
                                     <div class="collapse navbar-collapse" id="mynavbar">
-                                        <ul className="navbar-nav ml-5 ">
+                                        <ul className="navbar-nav ml-5 mr-auto ">
                                             <li className="nav-item" ><a className="nav-link active" href=""><span data-hover="HOME " >HOME</span></a></li>
                                             <li className="nav-item" ><a className="nav-link" href="#work"><span data-hover="WORK">WORK</span></a></li>
                                             <li className="nav-item" ><a className="nav-link" href=""><span data-hover="PORTFOLIO">PORTFOLIO</span></a></li>
@@ -44,7 +44,7 @@ function App(){
                 <section id="home">
                     <div className="container">
                         <div className="row">
-                            <div className="col-md-8">
+                            <div className="col-lg-8 col-md-9">
                                 <h2 data-aos="fade-down"  data-aos-duration="1000" >Hey, I Am </h2>
                                 <h1 data-aos="fade-up"  data-aos-duration="1000" class="animated animated-text">
                                     <span data-aos="fade-right"  data-aos-duration="1000" class="hey">Hey folks, I'm</span>
@@ -54,14 +54,14 @@ function App(){
                                         <span class="animated-item">UI Specialist</span>
                                     </div>
                                 </h1>
-                                <p data-aos="fade-up"  data-aos-duration="1000">
+                                <p className="para" data-aos="fade-up"  data-aos-duration="1000">
                                     Web Developer and React Developer
                                 </p>
                                 <button data-aos="fade-up"
      data-aos-duration="2000"><a  href="#work">VIEW MY WORK</a></button>
                             </div>
                             <div data-aos="fade-left"
-     data-aos-duration="3000" className="col-md-3"><img src={process.env.PUBLIC_URL + "/me.jpg"} alt="My-Pic" width="150px" />
+     data-aos-duration="3000" className="col-lg-3 col-md-3"><img src={process.env.PUBLIC_URL + "/me.jpg"} alt="My-Pic" width="250px" />
                             </div>
                         </div>
                     </div>
@@ -104,38 +104,37 @@ function App(){
                                 <h1  data-aos="fade-right"  data-aos-duration="1000">About Me</h1>
                             </div>
                             <div className="col-md-8">
-                                <p data-aos="fade-up"  data-aos-duration="1000">Hey, I Am Basharat Ali, I am Web Developer from LHR. Pakistan. I create custom websites to help businesses do better Online. I am a front end web developer. I know how to work with HTML,HTML5, CSS, CSS3, javascript, Advance JavaScript and I also Work on React JavaScript. I have already built projects using HTML CSS and javascript. If you need a front-end web developer feel free to contact me. I Can do your work as you want. And if you need a React js developer then you can contact me i make do this at a good budget. If you want to visit my Gig then the link is given below at Contact session. <span>Thanks.... to you </span></p>
+                                <p className="mt-4" data-aos="fade-up"  data-aos-duration="1000">Hey, I Am Basharat Ali, I am Web Developer from LHR. Pakistan. I create custom websites to help businesses do better Online. I am a front end web developer. I know how to work with HTML,HTML5, CSS, CSS3, javascript, Advance JavaScript and I also Work on React JavaScript. I have already built projects using HTML CSS and javascript. If you need a front-end web developer feel free to contact me. I Can do your work as you want. And if you need a React js developer then you can contact me i make do this at a good budget. If you want to visit my Gig then the link is given below at Contact session. <span>Thanks.... to you </span></p>
                             </div>
                             <div className="col-md-3 offset-1">
-                                <img data-aos="fade-left"  data-aos-duration="1000" src={process.env.PUBLIC_URL + "/me.jpg"} alt="" className='me' width="150px" />
+                                <img data-aos="fade-left"  data-aos-duration="1000" src={process.env.PUBLIC_URL + "/me.jpg"} alt="" className='me' width="200px" />
                             </div>
-                            <div className="col-md-6">
+                            <div className="col-lg-6 col-md-10">
                                 <h4 data-aos="fade-down"  data-aos-duration="1000">Here i will discuss some web development processes.</h4>
                             </div>
-                            <div className="col-md-12">
-                                <div className="row mt-1 g-5">
-                                    <div data-aos="fade-left"  data-aos-duration="1000" id='box' className="col-md-2">
-                                          <div className='ali'>Concept</div>
-                                    </div>
-                                    <div data-aos="fade-up"  data-aos-duration="1000" id='box' className="col-md-2">
-                                         <div className='ali'> Design</div>
-                                    </div>
-                                    <div data-aos="fade-up"  data-aos-duration="1000" id='box' className="col-md-2">
-                                         <div className='ali'> Coding</div>
-                                    </div>
-                                    <div data-aos="fade-up"  data-aos-duration="1000" id='box' className="col-md-2">
-                                         <div className='ali'>Testing</div>
-                                    </div>
-                                    <div data-aos="fade-right"  data-aos-duration="1000" id='box' className="col-md-2">
-                                         <div className='ali'> Launch</div>
-                                    </div>
-
-                                </div>
+                                 <div className="row mt-5">
+                                     <div className="col-md-2 ali">
+                                         CONCEPT
+                                     </div>
+                                     <div className="col-md-2 ali">
+                                         DESIGN
+                                     </div>
+                                     <div className="col-md-2 ali">
+                                         CODING
+                                     </div>
+                                     <div className="col-md-2 ali">
+                                         TESTING
+                                     </div>
+                                     <div className="col-md-2 ali">
+                                         LAUNCH
+                                     </div>
+                                 </div>
+                              
                                 <div className="row">
                                     <div className="col-md-5">
-                                        <h4 data-aos="fade-down"  data-aos-duration="1000" className='mt-4'>Tools | Work with</h4>
+                                        <h4 data-aos="fade-down"  data-aos-duration="1000" className='mt-5'>Tools | Work with</h4>
                                     </div>
-                                    <div id='image' className="col-md-8">
+                                    <div id='image' className="col-lg-8 col-md-12 mt-4">
                                         <img data-aos="fade-right"  data-aos-duration="1000" src={process.env.PUBLIC_URL + "/vscode-logo.png"} alt="" />
                                         <img data-aos="fade-up"  data-aos-duration="1000" src={process.env.PUBLIC_URL + "/html-logo.png"} alt="" />
                                         <img data-aos="fade-up"  data-aos-duration="1000" src={process.env.PUBLIC_URL + "/css-logo.png"} alt="" />
@@ -143,7 +142,7 @@ function App(){
                                         <img data-aos="fade-up"  data-aos-duration="1000" src={process.env.PUBLIC_URL + "/bootstrap-logo.png"} alt="" />
                                         <img data-aos="fade-left"  data-aos-duration="1000" src={process.env.PUBLIC_URL + "/logo512.png"} alt="" />
                                     </div>
-                                </div>
+                               
                             </div>
                         </div>
                     </div>
@@ -161,7 +160,7 @@ function App(){
                          <div className="col-md-8">
                              <ul className='navbar-nav'>
                                  <li data-aos="fade-up"  data-aos-duration="1000" className='nav-item'><a href="" className='nav-link'>
-                                     <img src={process.env.PUBLIC_URL + "/mail-logo.png"} alt="My-Pic" className='mr-3'  width="30px"/>
+                                     <img src={process.env.PUBLIC_URL + "/mail-logo.png"} alt="My-Pic" className='mr-3'  width="40px"/>
                                    <span className='ml-4'>basharatalidogar14@gmail.com</span> </a></li>
                                  <li data-aos="fade-up"  data-aos-duration="1000" className='nav-item'><a href="" className='nav-link'>
                                      <img src={process.env.PUBLIC_URL + "/whatsapp-logo.png"} alt="My-Pic" className='mr-3'  width="30px"/>
