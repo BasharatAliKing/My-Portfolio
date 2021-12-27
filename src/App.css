@@ -329,6 +329,9 @@ footer{
 }
 
 @media (max-width:576px){
+  body{
+    width: 100%;
+  }
   h1{
     font-size: 40px;
   }
@@ -347,6 +350,7 @@ footer{
     text-align: start;
   }
   #home p{
+    margin-top: 20px;
     text-align: start;
   }
   #home button{
@@ -357,6 +361,10 @@ footer{
   }
   #about h1{
     font-size: 50px;
+  }
+  #about h4{
+    margin-top: 20px;
+    font-size: 22px;
   }
   #contact h1{
     font-size: 50px;
