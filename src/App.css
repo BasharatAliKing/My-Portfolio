@@ -363,6 +363,9 @@ footer{
   #contact h1{
     font-size: 50px;
   }
+  #contact ul li a span{
+    font-size: 18px;
+  }
  footer{
    font-size: 15px;
  }
