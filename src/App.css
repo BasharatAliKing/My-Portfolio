@@ -13,13 +13,8 @@ body{
     margin-bottom: 0;
     list-style: none;
 } */
-#header{
-  z-index: 100;
-}
-#header ul{
-  position: absolute;
-  right: 20px;
-}
+
+
 
 #header ul li a{
     display: flex;
@@ -339,6 +334,9 @@ footer{
   }
   #header img{
     width: 100px;
+  }
+  #home{
+    margin-left: 10px;
   }
   #home h1{
     font-size: 40px;
