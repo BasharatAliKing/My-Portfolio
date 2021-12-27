@@ -25,7 +25,7 @@ function App(){
                                         <span class="navbar-toggler-icon" data-toggle="collapse" data-target="#mynavbar"></span>
                                     </button>
                                     <div class="collapse navbar-collapse" id="mynavbar">
-                                        <ul className="navbar-nav ml-5 mr-auto ">
+                                        <ul className="navbar-nav ml-5">
                                             <li className="nav-item" ><a className="nav-link active" href=""><span data-hover="HOME " >HOME</span></a></li>
                                             <li className="nav-item" ><a className="nav-link" href="#work"><span data-hover="WORK">WORK</span></a></li>
                                             <li className="nav-item" ><a className="nav-link" href=""><span data-hover="PORTFOLIO">PORTFOLIO</span></a></li>
@@ -84,7 +84,7 @@ function App(){
                                 <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="https://bdking-iphone-back.netlify.app/">https://bdking-iphone-back.netlify.app/</a></li>
                                 <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="https://bdkinglogin-form.netlify.app/">https://bdkinglogin-form.netlify.app/</a></li>
                                 <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="http://bdkingonline-meals.netlify.app/">http://bdkingonline-meals.netlify.app/</a></li>
-                                <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="https://bdking-chalmaraputt-movie.netlify.app/#putt3">https://bdking-chalmaraputt-movie.netlify.app/</a></li>
+                                <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="https://bdking-chalmaraputtmovie.netlify.app/#putt3">https://bdking-chalmaraputt-movie.netlify.app/</a></li>
                                 <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="https://bdkingwarmachines.netlify.app/">https://bdking-warmachines.netlify.app/</a></li>
                                 <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="https://bdkingvivagames.netlify.app/">https://bdking-vivagames.netlify.app/</a></li>
                                 <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="https://bdkingjss.netlify.app/">https://bdkingjss.netlify.app/</a></li>

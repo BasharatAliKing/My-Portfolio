@@ -14,8 +14,6 @@ body{
     list-style: none;
 } */
 
-
-
 #header ul li a{
     display: flex;
     text-decoration: none;
@@ -329,9 +327,6 @@ footer{
 }
 
 @media (max-width:576px){
-  body{
-    width: 100%;
-  }
   h1{
     font-size: 40px;
   }
@@ -357,6 +352,7 @@ footer{
     padding: 10px 30px
   }
   #work h1{
+    
     font-size: 50px;
   }
   #about h1{
