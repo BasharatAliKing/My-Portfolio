@@ -341,29 +341,45 @@ footer{
     text-align: start;
   }
   #home h2{
-    font-size: 35px;
+    font-size: 20px;
     text-align: start;
+  }
+  #home span{
+    font-size: 40px;
   }
   #home p{
     margin-top: 20px;
     text-align: start;
   }
   #home button{
-    padding: 10px 30px
+    padding: 10px 30px;
+    font-size:20px
   }
   #work h1{
-    
-    font-size: 50px;
+    font-size: 40px;
+  }
+  #work p{
+    font-size: 20px;
+  }
+  #work ul li a{
+    font-size: 19px;
   }
   #about h1{
-    font-size: 50px;
+    font-size: 40px;
   }
-  #about h4{
+  #about p{
+    font-size: 20px;
+  }
+  #about h2,h4{
     margin-top: 20px;
-    font-size: 22px;
+    font-size: 25px;
   }
+  
   #contact h1{
-    font-size: 50px;
+    font-size: 40px;
+  }
+  #contact h2{
+    font-size: 25px;
   }
   #contact ul li a span{
     font-size: 18px;
