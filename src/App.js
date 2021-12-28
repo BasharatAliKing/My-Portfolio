@@ -85,7 +85,7 @@ function App(){
                                 <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="https://bdkinglogin-form.netlify.app/">https://bdkinglogin-form.netlify.app/</a></li>
                                 <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="http://bdkingonline-meals.netlify.app/">http://bdkingonline-meals.netlify.app/</a></li>
                                 <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="https://bdking-chalmaraputtmovie.netlify.app/#putt3">https://bdking-chalmaraputt-movie.netlify.app/</a></li>
-                                <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="https://bdkingwarmachines.netlify.app/">https://bdking-warmachines.netlify.app/</a></li>
+                                <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="https://bdkingwarmachines.netlify.app/">https://bdking-war-machines.netlify.app/</a></li>
                                 <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="https://bdkingvivagames.netlify.app/">https://bdking-vivagames.netlify.app/</a></li>
                                 <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="https://bdkingjss.netlify.app/">https://bdkingjss.netlify.app/</a></li>
                                 <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="https://basharatali-responsivedesign.netlify.app/">https://basharatali-responsivedesign.netlify.app/</a></li>
@@ -106,7 +106,7 @@ function App(){
                             <div className="col-md-8">
                                 <p className="mt-4" data-aos="fade-up"  data-aos-duration="1000">Hey, I Am Basharat Ali, I am Web Developer from LHR. Pakistan. I create custom websites to help businesses do better Online. I am a front end web developer. I know how to work with HTML,HTML5, CSS, CSS3, javascript, Advance JavaScript and I also Work on React JavaScript. I have already built projects using HTML CSS and javascript. If you need a front-end web developer feel free to contact me. I Can do your work as you want. And if you need a React js developer then you can contact me i make do this at a good budget. If you want to visit my Gig then the link is given below at Contact session. <span>Thanks.... to you </span></p>
                             </div>
-                            <div className="col-md-3 offset-1">
+                            <div className="col-md-3 offset-md-1">
                                 <img data-aos="fade-left"  data-aos-duration="1000" src={process.env.PUBLIC_URL + "/me.jpg"} alt="" className='me' width="200px" />
                             </div>
                             <div className="col-lg-6 col-md-10">
