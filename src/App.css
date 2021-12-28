@@ -382,12 +382,13 @@ footer{
   #about p{
     font-size: 25px;
   }
-  #about h2,h4{
+  #about h2{
     margin-top: 20px;
     font-size: 25px;
   }
-#about h4{
-   font-size:22px;
+  #about h4 {
+    margin-top: 20px;
+    font-size: 22px;
 }
   
   #contact h1{
