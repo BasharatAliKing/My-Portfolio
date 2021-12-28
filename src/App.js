@@ -132,7 +132,7 @@ function App(){
                               
                                 <div className="row">
                                     <div className="col-md-5">
-                                        <h4 data-aos="fade-down"  data-aos-duration="1000" className='mt-5'>Tools | Work with</h4>
+                                        <h3 data-aos="fade-down"  data-aos-duration="1000" className='mt-5'>Tools | Work with</h3>
                                     </div>
                                     <div id='image' className="col-lg-8 col-md-12 mt-4">
                                         <img data-aos="fade-right"  data-aos-duration="1000" src={process.env.PUBLIC_URL + "/vscode-logo.png"} alt="" />
