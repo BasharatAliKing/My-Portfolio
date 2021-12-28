@@ -380,12 +380,15 @@ footer{
     font-size: 40px;
   }
   #about p{
-    font-size: 20px;
+    font-size: 25px;
   }
   #about h2,h4{
     margin-top: 20px;
     font-size: 25px;
   }
+#about h4{
+   font-size:22px;
+}
   
   #contact h1{
     font-size: 40px;
