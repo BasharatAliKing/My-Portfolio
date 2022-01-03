@@ -77,6 +77,8 @@ function App(){
                             <p data-aos="fade-up"  data-aos-duration="1000">A Cross sectoin off my recent projects and works so please check it.</p>
                             <ul id="links" className='list-unstyled'>
 
+                                <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="https://bdking-extremesports.netlify.app/">https://bdking-extremesports.netlify.app/</a></li>
+                                <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="https://bdking-calculator.netlify.app/">https://bdking-calculator.netlify.app/</a></li>
                                 <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="https://bdking-dogarrantacar.netlify.app/">https://bdking-dogarrantacar.netlify.app/</a></li>
                                 <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="https://bdking-firstreactapp.netlify.app/">https://bdking-firstreactapp.netlify.app/</a></li>
                                 <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="https://bdking-ecowebportals.netlify.app/">https://bdking-ecowebportals.netlify.app/</a></li>
