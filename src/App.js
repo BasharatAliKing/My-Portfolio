@@ -77,6 +77,7 @@ function App(){
                             <p data-aos="fade-up"  data-aos-duration="1000">A Cross sectoin off my recent projects and works so please check it.</p>
                             <ul id="links" className='list-unstyled'>
 
+                                <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="https://bdking-sktgold.netlify.app/">https://bdking-sktgold.netlify.app/</a></li>
                                 <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="https://bdking-extremesports.netlify.app/">https://bdking-extremesports.netlify.app/</a></li>
                                 <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="https://bdking-calculator.netlify.app/">https://bdking-calculator.netlify.app/</a></li>
                                 <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="https://bdking-dogarrantacar.netlify.app/">https://bdking-dogarrantacar.netlify.app/</a></li>
@@ -87,11 +88,7 @@ function App(){
                                 <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="https://bdkinglogin-form.netlify.app/">https://bdkinglogin-form.netlify.app/</a></li>
                                 <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="http://bdkingonline-meals.netlify.app/">http://bdkingonline-meals.netlify.app/</a></li>
                                 <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="https://bdking-chalmaraputtmovie.netlify.app/#putt3">https://bdking-chalmaraputt-movie.netlify.app/</a></li>
-                                <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="https://bdkingwarmachines.netlify.app/">https://bdking-war-machines.netlify.app/</a></li>
-                                <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="https://bdkingvivagames.netlify.app/">https://bdking-vivagames.netlify.app/</a></li>
-                                <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="https://bdkingjss.netlify.app/">https://bdkingjss.netlify.app/</a></li>
-                                <li className='nav-item' data-aos="fade-up"  data-aos-duration="1000"><a className='nav-link' href="https://basharatali-responsivedesign.netlify.app/">https://basharatali-responsivedesign.netlify.app/</a></li>
-                            </ul>
+                                 </ul>
                             <div className=" col-12">
 
                             </div>
