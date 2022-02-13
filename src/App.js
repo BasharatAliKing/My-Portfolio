@@ -161,7 +161,7 @@ function App(){
                          </div>
                          <div className="col-md-8">
                              <ul className='navbar-nav'>
-                                 <li data-aos="fade-up"  data-aos-duration="1000" className='nav-item'><a href="https://basharatalidogar14@gmail.com" className='nav-link'>
+                                 <li data-aos="fade-up"  data-aos-duration="1000" className='nav-item'><a href="basharatalidogar14@gmail.com" className='nav-link'>
                                      <img src={process.env.PUBLIC_URL + "/mail-logo.png"} alt="My-Pic" className='mr-3'  width="40px"/>
                                    <span className='ml-4'>basharatalidogar14@gmail.com</span> </a></li>
                                  <li data-aos="fade-up"  data-aos-duration="1000" className='nav-item'><a href="https://Wa.me/923036939413" className='nav-link'>
