@@ -157,7 +157,7 @@ function App(){
                                
                                 <p data-aos="fade-up"  data-aos-duration="1000" className='mt-4'>Got a Project in mind? Need to Collaaborate or Bounce Ideas Of ?</p>
                              <h2 data-aos="fade-right"  data-aos-duration="1000">HIT ME UP!</h2>
-                             <p data-aos="fade-up"  data-aos-duration="1000" className='mt-4'>Just Click On the Method Your Choose Button and Contact me.</p>
+                             <p data-aos="fade-up"  data-aos-duration="1000" className='mt-4'>Just Click On the Method Button You want to Contact Me.</p>
                          </div>
                          <div className="col-md-8">
                              <ul className='navbar-nav'>
