@@ -157,13 +157,14 @@ function App(){
                                
                                 <p data-aos="fade-up"  data-aos-duration="1000" className='mt-4'>Got a Project in mind? Need to Collaaborate or Bounce Ideas Of ?</p>
                              <h2 data-aos="fade-right"  data-aos-duration="1000">HIT ME UP!</h2>
+                             <p data-aos="fade-up"  data-aos-duration="1000" className='mt-4'>Just Click On the Method Your Choose Button and Contact me.</p>
                          </div>
                          <div className="col-md-8">
                              <ul className='navbar-nav'>
-                                 <li data-aos="fade-up"  data-aos-duration="1000" className='nav-item'><a href="" className='nav-link'>
+                                 <li data-aos="fade-up"  data-aos-duration="1000" className='nav-item'><a href="https://basharatalidogar14@gmail.com" className='nav-link'>
                                      <img src={process.env.PUBLIC_URL + "/mail-logo.png"} alt="My-Pic" className='mr-3'  width="40px"/>
                                    <span className='ml-4'>basharatalidogar14@gmail.com</span> </a></li>
-                                 <li data-aos="fade-up"  data-aos-duration="1000" className='nav-item'><a href="" className='nav-link'>
+                                 <li data-aos="fade-up"  data-aos-duration="1000" className='nav-item'><a href="https://Wa.me/923036939413" className='nav-link'>
                                      <img src={process.env.PUBLIC_URL + "/whatsapp-logo.png"} alt="My-Pic" className='mr-3'  width="30px"/>
                                    <span className='ml-4'>+92 303 69 39 413</span> </a></li>
                                  <li data-aos="fade-up"  data-aos-duration="1000" className='nav-item'><a href="https://twitter.com/Bashara84911062?t=QfZXvQPthPRVGwAqyQftpg&s=09" className='nav-link'>
